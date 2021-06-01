@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+    justify-self: center;
+}
+
+#res {
+  background-color: lightgray;
+  border: solid;
+  height: 48px;
+  font-size: 20px;
+}
+
+#btns button {  
+  width: 25%;
+  height: 40px;
+  font-size: 18px;
+  float: left;
+}
